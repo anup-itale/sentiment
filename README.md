@@ -1,2 +1,2 @@
-# sentiment
-Sentiment analysis of financial news
+# sentiment-analysis
+Sentiment analysis using NLP and dictionaries
